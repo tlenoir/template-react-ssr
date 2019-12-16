@@ -1,4 +1,5 @@
 {
+  "homepage": "https://tlenoir.github.io/template-react-ssr/",
   "name": "react-ssr-template",
   "version": "3.0.0",
   "description": "Server side rendering template for React 16",
