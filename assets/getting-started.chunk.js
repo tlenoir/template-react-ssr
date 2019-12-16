@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0,2],{10:function(e,n,o){"use strict";o.r(n);var t=o(1),a=o.n(t),r=o(77),c=o.n(r);n.default=function(){return a.a.createElement("section",{className:c.a.root},"To start development on your app, head to",a.a.createElement("code",null," src/shared/App.js "),"and hack away!")}},77:function(e,n,o){e.exports={root:"index__root--2Jb3i"}}}]);
+//# sourceMappingURL=getting-started.chunk.js.map

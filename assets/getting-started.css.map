@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/shared/components/getting-started/index.styl"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA","file":"getting-started.css","sourcesContent":[".index__root--2Jb3i {\n  background: #545454;\n  color: #fff;\n  padding: 16px;\n}\n"],"sourceRoot":""}
